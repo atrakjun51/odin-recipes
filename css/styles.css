@@ -1,7 +1,12 @@
 .list-general {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 24px;
+    background-color: lightblue;
+    width: fit-content;
+    padding: 20px 20px 20px 20px;
+    list-style-type: none;
 }
+
 .header-general {
     font-size: 40px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
