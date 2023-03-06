@@ -2,3 +2,11 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 24px;
 }
+.header-general {
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin-left: 10px;
+    background-color: rgb(243, 243, 141);
+    width: fit-content;
+}
